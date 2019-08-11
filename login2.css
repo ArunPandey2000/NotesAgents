@@ -4,7 +4,7 @@
 }
 
 body {
-  float: right;
+  float: left;
   background: #007bff;
   background: linear-gradient(to right, #0062E6, #33AEFF);
   background: url('abc.jpg') no-repeat repeat;
