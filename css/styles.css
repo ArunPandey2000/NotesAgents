@@ -14,7 +14,7 @@ body {
 }
 
 #logo-img {
-  background: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn0.iconfinder.com%2Fdata%2Ficons%2Fschool-and-education-vol-1-11%2F1000%2F13-512.png&imgrefurl=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F2862802%2Fboard_exam_lecture_notes_paper_icon&docid=-g_o3yIH5jTX4M&tbnid=kG6iTjHilFKWkM%3A&vet=10ahUKEwiu3rKd9vXjAhUZfX0KHXpSBsQQMwhDKAIwAg..i&w=512&h=512&bih=591&biw=1007&q=lecture%20notes%20logo%20transparent&ved=0ahUKEwiu3rKd9vXjAhUZfX0KHXpSBsQQMwhDKAIwAg&iact=mrc&uact=8") no-repeat;
+  background: url("https://mail.google.com/mail/u/0?ui=2&ik=ff9b874aab&attid=0.1&permmsgid=msg-a:r-4043112272307311886&th=16c8e5c6ddc5297f&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ_w0Vfv-eOlREj9CeGQACAhq-yKjDPBlAjjHz9xuJHT9aWreVOgIiZLbpxrsSbCsOBDYYAD2BUEEIUgBx6CUXESWYu4gO8S5ki_-LmosK_Xb0wlFouBXlGAydc&disp=emb&realattid=ii_jzaqzs8y0") no-repeat;
   width: 150px;
   height: 150px;
   margin: 10px 15px 10px 0;
@@ -25,14 +25,14 @@ body {
 }
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
-  color: #557c3e;
-  font-size: 3em;
+  color: White;
+  font-size: 50px;
   text-transform: uppercase;
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
   margin-top: 0;
   margin-bottom: 0;
-  line-height: .75;
+  line-height: 1.5;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
