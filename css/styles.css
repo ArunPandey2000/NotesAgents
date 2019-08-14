@@ -1,14 +1,14 @@
 body {
   font-size: 16px;
   color: #fff;
-  background-image: linear-gradient(#d18c54,#2c365d,#bebebe);
+  background-image: linear-gradient(circle,#d18c54,#2c365d);
   font-family: 'Oxygen', sans-serif;
 }
 
 /** HEADER **/
 #header-nav {
   background-color: black;
-  background-image: linear-gradient(#bed12c,#8c365d,#54be5d);
+  background-image: linear-gradient(circle,black,blue,#54be5d);
   border-radius: 0;
   border: 0;
 }
