@@ -236,6 +236,10 @@ body {
     font-size: .6em;
     margin-top: 12px;
   }
+  #form-group
+  {
+  color: black;
+}
   .navbar-brand p img { /* Star-K */
     height: 20px;
   }
