@@ -120,6 +120,7 @@ body {
 .container .jumbotron {
   box-shadow: 0 0 50px #3F0C1F;
   border: 2px solid #3F0C1F;
+  color: red;
 }
 
 #menu-tile, #specials-tile, #map-tile {
@@ -239,7 +240,7 @@ body {
   }
   #con
   {
-  color: Yellow;
+  color: red;
 }
   .navbar-brand p img { /* Star-K */
     height: 20px;
